@@ -1,9 +1,9 @@
 # DiffegyProgFel
 Differenciálegyenletek programozási feladatok (BMETE91AM43)
 
-*A tantárgy az alábbi témakörök ismeretére épít: Python programozási nyelv ismerete, közönséges differenciálegyenletek
-*A tantárgy szerepe a képzés céljának megvalósításában: TTK Matematika BSc képzés kötelezően választható tárgya
-*Az aktuális tárgykövetelmények a követelmények.pdf fájlban találhatók.
+* A tantárgy az alábbi témakörök ismeretére épít: Python programozási nyelv ismerete, közönséges differenciálegyenletek
+* A tantárgy szerepe a képzés céljának megvalósításában: TTK Matematika BSc képzés kötelezően választható tárgya
+* Az aktuális tárgykövetelmények a követelmények.pdf fájlban találhatók.
 
 ## A tantárgy rövid leírása
 
