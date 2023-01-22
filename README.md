@@ -23,7 +23,7 @@ A tárgy célja a Differenciálegyenletek 1 című tárgy tematikájához kapcso
 
 6. Diszkrét idejű dinamikai rendszerek: káosz, Lyapunov-exponens, invariáns mérték, fraktál dimenzió, Takens tétele és alkalmazásai (ok-okozati kapcsolat kimutatása, anomália detektálás).
 
-7. Zajjal terhelt dinamikai rendszer állapotbecslése, rendszeridentifikáció: Kálmán szűrő és részecskeszűrők (szekvenciális Monte-Carlo módszerek), ARX modellek, LSTM hálók.
+7. Zajjal terhelt dinamikai rendszer állapotbecslése, rendszeridentifikáció: Kálmán szűrő és részecskeszűrők (szekvenciális Monte-Carlo módszerek).
 
 8. Egydimenziós peremérték problémák megoldása: stacionárius hővezetési probléma rúdon (véges differencia módszer), terhelt rúd lehajlásának szimulációja (véges elem módszer), fluidum áram sebességprofiljának szimulációja a határrétegben (Blausius egyenlet, neurális hálók).
 
